@@ -1,6 +1,6 @@
 # GRA_Space_Invaders
 
-================================== GAME DESCRIPTION =========================================================================================
+================================== GAME DESCRIPTION ========================================
 
 
 Presented code is an implementation of simple 2D game written in Java language. 
@@ -13,4 +13,4 @@ During the game there is implemented mechanism of playing music connected with s
 There is also an opportunity to write our scores in a file.
 The application has wide evolution capabilities. For example it could be modified to provide the possibility of playing via Internet.
 
-============================================================================================================================================
+
