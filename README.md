@@ -1,6 +1,6 @@
 # GRA_Space_Invaders
 
-================================== GAME DESCRIPTION ========================================
+===========================GAME DESCRIPTION=================================
 
 
 Presented code is an implementation of simple 2D game written in Java language. 
